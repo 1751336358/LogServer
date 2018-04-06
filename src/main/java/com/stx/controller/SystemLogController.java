@@ -29,8 +29,15 @@ public class SystemLogController {
 		} catch (Exception e) {
 			return 0;
 		}
+		System.out.println("LogServer1接收日志");
 		return 1;
 	}
+	
+	@RequestMapping("/get")
+	public String  get(){
+		return "LogServer1";
+	}
+	
 	
 	@Resource(name="systemLogServices")
 	private SystemLogService systemLogService;
