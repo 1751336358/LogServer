@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: com.stx
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: LL
-Implementation-Vendor-Id: com.stx
+Implementation-Vendor-Id: com.stx.logserver
 Build-Jdk: 1.8.0_45
 Implementation-URL: http://maven.apache.org
 Created-By: Maven Integration for Eclipse

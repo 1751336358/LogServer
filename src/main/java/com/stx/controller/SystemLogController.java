@@ -33,10 +33,6 @@ public class SystemLogController {
 		return 1;
 	}
 	
-	@RequestMapping("/get")
-	public String  get(){
-		return "LogServer1";
-	}
 	
 	
 	@Resource(name="systemLogServices")

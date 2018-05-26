@@ -1,1 +1,10 @@
-F:\new\006SpringBoot_properties\src\main\java\com\stx\App.java
+F:\eclipse\LogServer\src\main\java\com\stx\dao\SystemLogDao.java
+F:\eclipse\LogServer\src\main\java\com\stx\mapper\SystemLogMapper.java
+F:\eclipse\LogServer\src\main\java\com\stx\service\SystemLogService.java
+F:\eclipse\LogServer\src\main\java\com\stx\App.java
+F:\eclipse\LogServer\src\main\java\com\stx\service\impl\SystemLogServiceImpl.java
+F:\eclipse\LogServer\src\main\java\com\stx\pojo\SystemLogVO.java
+F:\eclipse\LogServer\src\main\java\com\stx\dao\impl\SystemLogDaoImpl.java
+F:\eclipse\LogServer\src\main\java\com\stx\controller\SystemLogController.java
+F:\eclipse\LogServer\src\main\java\com\stx\pojo\SystemLog.java
+F:\eclipse\LogServer\src\main\java\com\stx\config\MyConfiguration.java
